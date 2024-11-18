@@ -1,0 +1,12 @@
+.swiper-button-prev:after{
+    font-size: 28px !important;
+    position: absolute !important;
+    font-weight: 900 !important;
+    top: -50px !important;
+}
+.swiper-button-next:after{
+    font-size: 28px !important;
+    font-weight: 900 !important;
+    position: absolute !important;
+    top: -50px !important;
+}
